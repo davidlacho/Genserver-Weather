@@ -12,6 +12,7 @@ defmodule GenserverWeather do
       :world
 
   """
+
   def hello do
     :world
   end
